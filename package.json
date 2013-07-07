@@ -1,0 +1,25 @@
+{
+  "name": "closurether",
+  "version": "0.1.0",
+  "description": "network traffic hijack via Node",
+  "main": "index.js",
+  "dependencies": {
+    "iconv-lite": "~0.2.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hijack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EtherDream/closurether.git"
+  },
+  "keywords": [
+    "traffic",
+    "hijack"
+  ],
+  "author": "EtherDream",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "6e57e9c1193be00dddb71a44e35e7118f13fbb9c"
+}

