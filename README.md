@@ -3,7 +3,7 @@ Closurether
 
 ##### A net network traffic hijack script, including:
 
-  - DNS hihack
+  - DNS hijack
   - html code inject
   - HTTP cache poisoning
 
